@@ -17,32 +17,16 @@
       "id": 4
     },
     {
-      "item": "peaches",
+      "item": "Dog Treats",
       "id": 5
     },
     {
-      "item": "Organic Milk",
+      "item": "peanut butter",
       "id": 6
     },
     {
-      "item": "Raw Milk",
+      "item": "Nutella",
       "id": 7
-    },
-    {
-      "item": "Dog Treats",
-      "id": 8
-    },
-    {
-      "item": "Cheese",
-      "id": 9
-    },
-    {
-      "item": "Peanuts",
-      "id": 10
-    },
-    {
-      "item": "",
-      "id": 11
     }
   ]
 }
